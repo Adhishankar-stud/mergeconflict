@@ -1,1 +1,1 @@
-city:BANGALORE 
+city: Coimbatore
